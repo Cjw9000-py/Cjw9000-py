@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**Cjw9000-py/Cjw9000-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi i am Cjw  👋
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am currently developing Discord bots in python. \
+If you want a custom discord bot for your server,
+hit me up, and I will give you a fair price.
+
+---
+
+### Astro PvP
+
+I was a member of the Ark Survival Evolved Server Team - Astro until recently.
+I have worked as a volunteer developer, and learned a lot there.
+
+#### Discord
+
+https://discord.com/invite/jHTEbfCPy9
+
+#### Website 
+https://astro-pvp.com
+
+---
+
+### 📫 How to reach me:
+
+<!-- - My Discord Server: -->
+<!-- - My Email: -->
+- Discord: _Cjw#4299
+
+
