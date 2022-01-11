@@ -26,7 +26,7 @@ https://astro-pvp.com
 
 ### 📫 How to reach me:
 
-<!-- - My Discord Server: -->
+- My Discord Server: https://discord.gg/TEdQjwHrEA
 <!-- - My Email: -->
 - Discord: _Cjw#4299
 
