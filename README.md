@@ -1,12 +1,6 @@
 
 ## Hi i am Cjw  👋
 
----
-
-
-
-
----
 
 ### Astro PvP
 
