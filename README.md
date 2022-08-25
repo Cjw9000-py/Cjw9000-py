@@ -22,10 +22,6 @@ hint: zlib
 
 I am a member of the Ark Survival Evolved Server Team - Astro.
 
-#### Discord
-
-https://discord.com/invite/jHTEbfCPy9
-
 #### Website 
 https://astro-pvp.com
 
