@@ -16,8 +16,6 @@ bf a7 66 97 d1 0f 3c c1 e3 dc bb 5a 93 b3 dd 41 b2 fa b4 5a e8 6d a5 03
 06 ae fa 84 2e 7f 46 34 41 3d 7f d0 10 3c b3 b4 0b f8 96 d6 b7 f7 f5 01 
 71 aa 2e 8f
 
-hint: zlib
-
 ### Astro PvP
 
 I am a member of the Ark Survival Evolved Server Team - Astro.
